@@ -1,3 +1,2 @@
 # 3D_WEBSITE_DESIGN
-Created with CodeSandbox
-Show Project :- https://codesandbox.io/s/github/katiyar17/3D_WEBSITE_DESIGN
+Show Project :- https://codesandbox.io/embed/clever-meninsky-yn245m?fontsize=14&hidenavigation=1&theme=dark&view=preview
